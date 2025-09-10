@@ -2,7 +2,7 @@
 
 An **Unsigned Driver Mapper** for Windows 10 22H2 → Windows 11 23H2 that leverages **PdFwKrnl** to exploit Read/Write IOCTL calls to temporarily disable **DSE & PatchGuard** and map unsigned drivers.  
 
-*(Original GitHub repo got deleted, and this is a repost to keep the driver available.)*
+*(Original GitHub repo got deleted, and this is a repost to keep the mapper available.)*
 
 ---
 
